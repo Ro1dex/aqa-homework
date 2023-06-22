@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/0laqx6kma0ojr07l?svg=true)](https://ci.appveyor.com/project/aleksandr58961/aqa-homework1-2-1)
 
+![appveyorError](https://github.com/Ro1dex/aqa-homework1.2.1/assets/123482873/8b33052f-6cb4-462b-9efe-7c1fa0430909)
+
 
 # aqa-code
 
