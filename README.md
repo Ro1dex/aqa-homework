@@ -1,4 +1,8 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/0laqx6kma0ojr07l?svg=true)](https://ci.appveyor.com/project/aleksandr58961/aqa-homework1-2-1)
+
+
 # aqa-code
+
 Код с лекций Автоматизация тестирования
 
 1. [x] [Основы автоматизации](basics/)
